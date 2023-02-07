@@ -8,9 +8,4 @@ Noob level enthusiast in 3D printing.
 
 Tech: c#, firebase (no sql), mongoDB (no sql), docusaurus, arduino (c++), esp32, javascript
 
-Other interest such as:
-- bbq
-- vinyl
-- calisthenics
-
-I'm from a petroleum engineering background who switched to software development.
+Petroleum Engineering graduate from UNSW, Sydney --> Software Developer
