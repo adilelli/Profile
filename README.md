@@ -1,6 +1,6 @@
 # Profile
 
-Software Developer who focuses on Blockchain; Unity Game Development in c# and firebase db; Technical Writing.
+Software Developer who focuses on Blockchain; Unity Game Development in c# and firebase db; Technical Writing. Currently involved in front end dev with VueJs
 
 An IoT enthusiast. Touch on arduino, sensors, firebase, esp32, max6675 and building api endpoints.
 
