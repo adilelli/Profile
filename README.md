@@ -1,11 +1,21 @@
 # Profile
 
-Software Developer who focuses on Blockchain; Unity Game Development in c# and firebase db; Technical Writing. Currently involved in front end dev with VueJs
+Software Developer who focuses on Blockchain, AI, Backend, mobile apps with flutter
 
-An IoT enthusiast. Touch on arduino, sensors, firebase, esp32, max6675 and building api endpoints.
+Tech: c#, firebase (no sql), mongoDB (no sql), esp32, javascript, python fastAPI
+
+Petroleum Engineering graduate from UNSW, Sydney --> Software Developer
+Doing Master of Software Engineering at UTM
+
+An IoT, AR and AI enthusiast.
+
+Iot - esp32 with arduino
+
+AR - ARKit
+
+OCR - google ml kit and tesseract OCR
+
+AI - Ollama and huggingface
 
 Noob level enthusiast in 3D printing.
 
-Tech: c#, firebase (no sql), mongoDB (no sql), docusaurus, arduino (c++), esp32, javascript
-
-Petroleum Engineering graduate from UNSW, Sydney --> Software Developer
