@@ -15,6 +15,8 @@ AR - ARKit
 
 OCR - google ml kit and tesseract OCR
 
+IOS app deployment to App Store
+
 AI - Ollama and huggingface
 
 Noob level enthusiast in 3D printing.
